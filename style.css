@@ -9,7 +9,6 @@ body{
     align-items: center;
     font-family: "Work Sans", sans-serif;
     overflow-y: hidden;
-    overflow-x: hidden;
 }
 .part{
     position: absolute;
