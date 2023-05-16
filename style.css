@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    height: 90vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -569,6 +569,14 @@ body{
 @media screen and (max-width: 1200px){
     .bl6, .bl9, .bl7, .bl10, .bl8{
         left: 400px;
+    }
+    .bl11, .bl12, .bl14, .bl13, .bl15{
+        display: none;
+    }
+}
+@media screen and (max-width: 1090px){
+    .bl6, .bl9, .bl7, .bl10, .bl8{
+        left: 300px;
     }
     .bl11, .bl12, .bl14, .bl13, .bl15{
         display: none;
