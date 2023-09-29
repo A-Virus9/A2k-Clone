@@ -10,7 +10,6 @@ body{
     font-family: "Work Sans", sans-serif;
     overflow-y: hidden;
     /* overflow-x: hidden; */
-    border: 2px solid red;
     font-size: 60px;
     /* overflow-x: scroll; */
 }
